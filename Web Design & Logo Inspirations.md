@@ -1,4 +1,4 @@
-# Inspiration Resources
+# Web Design & Logo Inspiration
 
 ## Introduction
 This document lists websites offering inspiration for design projects, including general creative resources, UI/UX design ideas, and logo concepts. These resources cover a wide range of themes and styles to help spark creativity and guide your design projects.
